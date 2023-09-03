@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasLogin</string>
+    <string name="login">Login</string>
+    <string name="button">Kirim</string>
+    <string name="inputEmail">Masukkan Email</string>
+    <string name="inputPasswd">Masukkan Password</string>
+    <string name="Or">Atau Login dengan</string>
+    <string name="Checkbox">Ingatkan saya</string>
+    <string name="ForgetPassword">Lupa sandi?</string>
+</resources>
